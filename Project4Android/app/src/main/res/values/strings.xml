@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="food_item">Search for a food item</string>
+    <string name="app_name">RECIPE SEARCH APP</string>
+    <string name="action_settings">Action</string>
+</resources>
